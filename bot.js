@@ -227,4 +227,4 @@ function play(guild, song) {
 
 
 
-client.login(NDk1NzAzNjAwMDk4NDQzMjY0.DxPt5g.b9chjVDWR4MVeJKvxSqxccnL954);
+client.login(NDk1NzAzNjAwMDk4NDQzMjY0DxPyrQb9yHrkktebZKBvMUXtAtDBi0bWs);
